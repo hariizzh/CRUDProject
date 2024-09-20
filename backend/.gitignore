@@ -1,0 +1,19 @@
+# Operating system files
+/node_modules
+/.vscode
+/.DS_Store
+
+# Compiled files
+/build
+/dist
+/coverage
+
+# IDE configuration files
+/.idea
+/.settings
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
